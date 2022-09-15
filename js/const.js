@@ -26,7 +26,7 @@ const d = [
     },
     {
         name: "抽奖",
-        keywords: ["互动抽奖", "转发","抽取"],
+        keywords: ["动态抽奖", "抽奖","抽取","互动抽奖"],
         color: "#FFB37C"
     },
     {
@@ -76,7 +76,7 @@ const d = [
     },
     {
         name: "种梓",
-        keywords: ["阿梓从小就很可爱","7706705","阿梓"],
+        keywords: ["阿梓从小就很可爱","7706705"],
         color: "cornflowerblue"
     },
     {
